@@ -2,7 +2,7 @@
 
 Business model: **Automotive**
 Industry: **Car Wash**
-Architecture: **brutalist**
+Architecture: **luxury**
 Catalog entries: **6**
 
 ## V60 differences
